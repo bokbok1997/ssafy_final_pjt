@@ -1,0 +1,396 @@
+{
+    "page": 10,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+            "genre_ids": [
+                35,
+                10752
+            ],
+            "id": 935,
+            "original_language": "en",
+            "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "overview": "미 공군의 잭 리퍼 장군은 공산주의자들이 미국인의 신성한 혈통을 오염시킬 음모를 꾸미고 있다는 망상에 사로잡혀 핵폭격기를 출격시킨다. 미국 대통령은 절대절명의 위기를 해결 하기 위해 자문회를 소집하는데, 그 자리에서 소련 대사는 만일 소련이 핵공격을 당한다면 지구상의 모든 동식물이 파멸되는 운명의 날이 다가오게 될 것이라고 경고한다. 전 나치주의자였던 천재 과학자 스트레인지러브 박사는 핵무기에 지구의 운명이 달려있다는 사실이 너무 명백하므로 핵무기로 상황을 대응할 수 없다는 결론을 내린다. 과연 폭격기는 제 시간에 제거될 수 있을 것인가? 아니면 잭 리퍼 장군이 전세계를 파멸시키는데 성공 할 것인가?",
+            "popularity": 54.621,
+            "poster_path": "/2VrsnlM63ab3oAuMt3XOnbGYMY6.jpg",
+            "release_date": "1964-01-29",
+            "title": "닥터 스트레인지러브",
+            "video": false,
+            "vote_average": 8.122,
+            "vote_count": 5389
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 996,
+            "original_language": "en",
+            "original_title": "Double Indemnity",
+            "overview": "보험사 직원인 월터는 고객 관리를 위해 디트리히슨의 집을 방문한다. 디트리히슨의 아내 필리스를 만나게 된 월터는 그녀의 매력에 곧 빠져들고, 남편을 살해할 음모를 품고 있는 필리스의 유혹에 쉽게 넘어간다. 결국 월터와 필리스는 사고를 가장해 남편을 살해하는데, 머지 않아 그녀의 어두운 과거가 드러난다.",
+            "popularity": 49.889,
+            "poster_path": "/n8Mfx7JNbj6lo24laFL1sZYEKHs.jpg",
+            "release_date": "1944-07-06",
+            "title": "이중 배상",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 1713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 100,
+            "original_language": "en",
+            "original_title": "Lock, Stock and Two Smoking Barrels",
+            "overview": "베이컨(제이슨 스테덤), 소프(덱스터 플렛쳐), 톰(제이슨 플레밍)과 에디(닉 모란) 패거리는 포르노 거물 해리가 여는 포커판에 끼려는 에디에게 가진 돈을 모두 준다. 그러나 이길 줄 알았던 에디가 졌을 뿐만 아니라 해리에게 빚까지 지게 된다. 일주일 안에 돈을 갚지 않으면 손가락이 잘릴 위기에 처한 에디는 대마초 패거리를 털려는 덕의 계획을 알고 덕 일당의 돈을 뺏기로 한다. 덕 일당이 돈과 대마초를 털어오자 집에서 기다린 에디 일당이 돈과 대마초를 빼앗는다. 에디 일당은 해리에게 빚을 갚고 대마초를 팔아 돈을 챙기기만 하면 된다고 기뻐하지만...",
+            "popularity": 21.129,
+            "poster_path": "/pmnmU1BVt58y2HLyvWFYnC3F6ma.jpg",
+            "release_date": "1998-08-28",
+            "title": "록 스탁 앤 투 스모킹 배럴즈",
+            "video": false,
+            "vote_average": 8.12,
+            "vote_count": 6343
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1ZSWFzAP4AZuFCigZZoib2RdcUO.jpg",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "id": 411088,
+            "original_language": "es",
+            "original_title": "Contratiempo",
+            "overview": "의문의 습격으로 살해 당한 ‘로라’ ‘아드리안’은 연인의 죽음에 절망하고, 범인은 흔적도 없이 사라졌다.  유력한 용의자로 누명을 쓴 ‘아드리안’은 승률 100%의 변호사 ‘버지니아’를 선임한다.  그리고 자신의 무죄를 입증하기 위해 고군분투하던 중  과거 그와 ‘로라’가 은폐한 교통사고와 숨겨진 연관성을 찾게 되는데…  남은 시간은 단 3시간, 사건을 재구성해 무죄를 입증해야 한다!",
+            "popularity": 64.036,
+            "poster_path": "/1bS5Do7dmOzda4nSIUU4PAgDCgV.jpg",
+            "release_date": "2017-01-06",
+            "title": "인비저블 게스트",
+            "video": false,
+            "vote_average": 8.118,
+            "vote_count": 4392
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+            "genre_ids": [
+                16,
+                18,
+                35,
+                878
+            ],
+            "id": 838240,
+            "original_language": "es",
+            "original_title": "Robot Dreams",
+            "overview": "뉴욕 맨해튼에서 홀로 외롭게 살던 ‘도그’는 TV를 보다 홀린 듯 반려 로봇을 주문하고 그와 둘도 없는 단짝이 되어 행복한 나날을 보낸다. 그러던 어느 날, 해수욕장에 놀러간 ‘도그’와 ‘로봇’은 예기치 못한 상황에 휩쓸려 이별을 맞이하게 되는데···",
+            "popularity": 146.226,
+            "poster_path": "/3TfgJPOx7lzuopbXimsvYGq4vn6.jpg",
+            "release_date": "2023-12-06",
+            "title": "로봇 드림",
+            "video": false,
+            "vote_average": 8.111,
+            "vote_count": 350
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "id": 663558,
+            "original_language": "zh",
+            "original_title": "新神榜：哪吒重生",
+            "overview": "오토바이 레이서이자 배달원과 지역유지의 아들 사이에서 생긴 갈등으로 인해 삼천년전 그들이 가문간 원수지간이었다는 사실이 밝혀지면서 일어나는 이야기",
+            "popularity": 25.773,
+            "poster_path": "/a8AwGuBb99TU45jxh6dKyuJ0uvf.jpg",
+            "release_date": "2021-02-06",
+            "title": "신신방: 나타중생",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 397
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mFVGzW8a2Z37NphnuB6liChiuRv.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 38288,
+            "original_language": "it",
+            "original_title": "I corti",
+            "overview": "",
+            "popularity": 6.142,
+            "poster_path": "/y3hEulMYSTQuvmI5jBTyWrcvJQX.jpg",
+            "release_date": "1996-03-29",
+            "title": "I corti",
+            "video": false,
+            "vote_average": 8.115,
+            "vote_count": 342
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8MksSPtPvqcSDruLdpibPmTP7LY.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "id": 280,
+            "original_language": "en",
+            "original_title": "Terminator 2: Judgment Day",
+            "overview": "미래, 인류와 기계의 전쟁은 계속 되는 가운데 스카이넷은 인류 저항군 사령관 존 코너를 없애기 위해 액체 금속형 로봇인 T-1000(로버트 패트릭)을 과거의 어린 존 코너에게로 보낸다. 형태의 변신과 자가 치유까지 가능한 T-1000에 대항하고 존 코너를 지키기 위해 인류 저항군은 T-101(아놀드 슈왈제네거)을 과거로 급파한다. 미래의 인류 운명을 쥔 어린 존 코너, 그를 구해내지 않으면 인류의 미래는 없다. 반드시 제거해야 하는 스카이넷의 T-1000은 거침없이 존 코너 일행을 위협하며 숨가쁜 추격을 시작하는데...",
+            "popularity": 125.13,
+            "poster_path": "/nDVUiEqoeXaDQuM81KkUVNviYIm.jpg",
+            "release_date": "1991-07-03",
+            "title": "터미네이터 2: 심판의 날",
+            "video": false,
+            "vote_average": 8.115,
+            "vote_count": 12366
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e782pDRAlu4BG0ahd777n8zfPzZ.jpg",
+            "genre_ids": [
+                16,
+                14,
+                18,
+                10751
+            ],
+            "id": 555604,
+            "original_language": "en",
+            "original_title": "Guillermo del Toro's Pinocchio",
+            "overview": "많은 이들의 사랑을 받은 목각 인형 피노키오의 마법 같은 모험. 현실의 한계를 뛰어넘어, 새 생명을 불어넣는 강력한 사랑의 힘이 펼쳐진다. 이탈리아 고전 동화 \"피노키오\"가 스톱모션 뮤지컬로 재탄생한다. 말썽꾸러기 피노키오는 과연 인간 소년이 될 수 있을까? 그 여정을 따라가 보자.",
+            "popularity": 59.604,
+            "poster_path": "/6bdUtxydFXLtgcxHMMvlkNnRZWg.jpg",
+            "release_date": "2022-10-22",
+            "title": "기예르모 델토로의 피노키오",
+            "video": false,
+            "vote_average": 8.113,
+            "vote_count": 2760
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 439,
+            "original_language": "it",
+            "original_title": "La dolce vita",
+            "overview": "삼류 신문의 사교계 담당 신문기자인 마르첼로는 사치스럽고 방탕한 생활을 하던 중 우연히 한결같이 반복되는 일상사에 진력을 내는 마달레나라는 여인을 만나 사귀게 된다. 마달레나는 마르첼로에게 고혹적인 분위기를 지닌 매춘부, 아르디아나를 소개시켜준다. 스스로도 주체할 수 없는 자신의 방탕한 생활에 회의를 느끼던 그는 어느 날 절친한 친구 스타이너가 자살했다는 소식을 듣고 더욱 실의에 빠지면서 삶의 가치와 의미에 대해 회의를 품게된다.",
+            "popularity": 27.597,
+            "poster_path": "/mZJ25Th65B2KXM57uIiEzO3Aw81.jpg",
+            "release_date": "1960-02-05",
+            "title": "달콤한 인생",
+            "video": false,
+            "vote_average": 8.109,
+            "vote_count": 1766
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vw3zNfzvnVNF7nIjpiEgcdznfeC.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "id": 664767,
+            "original_language": "en",
+            "original_title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "overview": "한 세대에 한 번 꼴로 개최되는 외계와 지구의 챔피언들 간의 토너먼트를 통해 세계의 운명을 결정짓게 되는 이야기. 지구의 수호자인 라이덴 경은 지구에서 가장 강력한 파이터들을 모아 최후의 대결인, 모탈 컴뱃에서 사악한 빌런 상췡으로부터 지구를 지켜야 하는데...",
+            "popularity": 49.689,
+            "poster_path": "/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+            "release_date": "2020-04-12",
+            "title": "모탈 컴뱃 레전드: 스콜피온의 복수",
+            "video": false,
+            "vote_average": 8.11,
+            "vote_count": 1342
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wooZWiC4NWH0ahCSUOogEmVejHo.jpg",
+            "genre_ids": [
+                10751,
+                14
+            ],
+            "id": 640344,
+            "original_language": "it",
+            "original_title": "Me contro Te: Il film - La vendetta del Signor S",
+            "overview": "",
+            "popularity": 8.512,
+            "poster_path": "/sfeQTIRkJjWt8IPDSBcPqkrcaas.jpg",
+            "release_date": "2020-01-17",
+            "title": "Me contro Te: Il film - La vendetta del Signor S",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 463
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                14
+            ],
+            "id": 532067,
+            "original_language": "ja",
+            "original_title": "映画 この素晴らしい世界に祝福を！紅伝説",
+            "overview": "교통사고(!?)로 허무하게 인생의 막을 내릴 예정이었던 게임을 사랑하는 은둔형 외톨이 사토 카즈마는, 어쩌다 보니 여신 아쿠아를 길동무 삼아서 이세계로 전생하게 된다. \"RPG 게임 같은 이세계에서 동경하던 모험가 생활 엔조이! 목표는 용사!\" 하지만 신나는 기분은 잠깐이고, 전생한 카즈마에게는 골치 아픈 일만 계속된다. 트러블 메이커 잉여신 아쿠아, 중2병을 잘못 앓은 마법사 메구밍, 망상 논스톱 여기사 다크니스라는, 능력치는 높은데 나사가 심하게 빠진 세 사람과 파티를 짜게 되고, 빚 때문에 옴짝달싹 못하게 되고, 국가 반역죄의 혐의로 재판에 회부되고, 마왕군의 간부를 토벌하고, 때로는 죽기도 한다……. 그러던 어느 날, 다급하게 찾아온 홍마족 소녀 융융의 폭탄 발언으로 카즈마 일행은 얼어붙고 만다. '저요, 카즈마 씨의 아이를 원해요!' 사정을 들어보니, 메구밍과 융융의 고향인 '홍마의 마을'이 멸망의 위기에 처했다고 한다. 마을을 구하기 위해 먼저 출발한 융융을 쫓아서 홍마의 마을로 향한 카즈마 일행이었지만--!? 카즈마 파티를 덮친, 최대의 위기! 평범한 모험가 카즈마가 살아가는 이세계 라이프의 미래는 어디로!?",
+            "popularity": 34.584,
+            "poster_path": "/hrE3lJtYnozIENA738mzQI65Avb.jpg",
+            "release_date": "2019-08-30",
+            "title": "이 멋진 세계에 축복을! 붉은 전설",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 515
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 11878,
+            "original_language": "ja",
+            "original_title": "用心棒",
+            "overview": "떠돌이 무사가 어느 마을의 여인숙에 들린다. 그곳은 두 패로 나뉜 악인의 무리가 세력다툼을 벌여 유령 마을처럼 되어버린 야도바 마을. 무사는 악인의 무리 중에서 돈을 많이 주는 쪽인 비단을 파는 사람들의 요짐보가 되어 일을 해준다. 하지만 술을 파는 무리 중 한 명의 아들인 우노스케가 권총을 갖고 마을로 들어오며 상황은 급변한다. 우노스케는 자신이 속한 파와 적대적인 관계에 있는 무리들을 무차별적으로 죽인다. 운 좋게도 요짐보는 마을 여관주인의 도움으로 마을 밖으로 도망쳐 근처에 있는 절 가까이 숨어 있는다. 하지만 얼마 후 여관주인이 우노스케에 의해 납치당했다는 사실을 알고 다시 마을로 들어오는데...",
+            "popularity": 29.64,
+            "poster_path": "/lIbwlZe5KHKfrFykpOTWHzPdqbO.jpg",
+            "release_date": "1961-04-25",
+            "title": "요짐보",
+            "video": false,
+            "vote_average": 8.106,
+            "vote_count": 1363
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gx3Iat10dc39XbDwbmdfKPsow3U.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 843,
+            "original_language": "cn",
+            "original_title": "花樣年華",
+            "overview": "홍콩의 지역 매일 신문 편집장인 초 모완, 수출회사의 비서로 근무하는 수 리첸. 둘은 상하이 지역의 한 건물로 같은 날 이사하게 된다. 이사 날부터 의도치 않게 오가며 자주 부딪히게 되는 두 사람. 둘 다 가정이 있지만 어쩐지 배우자들은 자리를 비우는 날이 더 많고 두 사람의 외로움은 서로에게 낯설지 않게 다가와 둘을 가깝게 한다. 두 사람은 점점 감정이 깊어질수록 겉으로는 더욱 조심스러워지고 예견되어 있는 이별 앞에 마음이 혼란스럽고, 서로의 자리에서 마음으로 바라는 그들의 사랑은 애절하기만 하다.",
+            "popularity": 54.193,
+            "poster_path": "/mjkr1IamzDiL5mLIbnuhiYOXLqg.jpg",
+            "release_date": "2000-09-29",
+            "title": "화양연화",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 2554
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 872585,
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "제2차 세계대전 당시 핵무기 개발을 위해 진행되었던 비밀 프로젝트 ‘맨해튼 프로젝트’를 주도한 미국의 물리학자 ‘로버트 오펜하이머’의 이야기",
+            "popularity": 609.4,
+            "poster_path": "/jpD6z9fgNe7OqsHoDeAWQWoULde.jpg",
+            "release_date": "2023-07-19",
+            "title": "오펜하이머",
+            "video": false,
+            "vote_average": 8.102,
+            "vote_count": 8018
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7zN7m5jEyrNxFYm2EbQJAZwAG5i.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 103663,
+            "original_language": "da",
+            "original_title": "Jagten",
+            "overview": "이혼 후, 고향으로 내려온 유치원 교사 루카스는 새로운 여자친구를 사귀며 아들 마커스와 함께 하는 행복한 삶을 꿈꾸고 있다. 그러던 어느 날, 루카스를 둘러 싼 한 소녀의 사소한 거짓말이 전염병처럼 마을로 퍼지고, 억울한 누명을 쓰게 된 루카스는 마을 사람들의 불신과 집단적 폭력 속에서 자신의 삶을 지키기 위한 외로운 싸움을 시작한다.",
+            "popularity": 56.309,
+            "poster_path": "/7uhc5ZyeOFgGyCrXOe7sEUb9zj9.jpg",
+            "release_date": "2012-06-13",
+            "title": "더 헌트",
+            "video": false,
+            "vote_average": 8.102,
+            "vote_count": 3984
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/175gL8LrNt9QfKwLzWn179AYvo.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 20532,
+            "original_language": "ja",
+            "original_title": "山椒大夫",
+            "overview": "여행 중 인신매매범의 손에 걸려 모친과 헤어지게 된 주시오와 안주의 오누이는 호족 산쇼다유에게 팔리게 된다. 노예나 다름없게 된 이 두 사람은 중노동에 시달리면서도 모친과의 재회를 꿈꾸며 하루하루를 보낸다. 그로부터 십년 후 여전히 산쇼다유의 수용소에 갇혀있는 이들은 어느 날 새로 들어온 젊은 여인이 부르는 노래에 자신들의 이름이 들어있는 것을 알고는 깜짝 놀란다.\r 인신매매가 횡행하는 헤이안 시대를 배경으로 부모 자식 간의 애정 그리고 인신매매 등의 인권 문제를 그리고 있는 작품으로, 단순한 이슈로서의 사회성을 인간 조건의 비극성에까지 끌고 간 걸작이다.",
+            "popularity": 23.877,
+            "poster_path": "/hoOyEvuGKw8CVXTCX6PPYlwrAaZ.jpg",
+            "release_date": "1954-03-31",
+            "title": "산쇼다유",
+            "video": false,
+            "vote_average": 8.102,
+            "vote_count": 349
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+            "genre_ids": [
+                35,
+                10749,
+                80
+            ],
+            "id": 239,
+            "original_language": "en",
+            "original_title": "Some Like It Hot",
+            "overview": "색소폰 연주자인 조와 베이스 바이올린 연주자 제리는 갱단의 살인장면을 우연히 목격하게 된다. 얼굴이 노출되고 얼떨결에 갱들에게 쫓기는 신세가 되어 버린 두 사람은 도시를 무사히 빠져나갈 방법을 궁리하게 된다. 유일한 방법은 여자로 변장하고 마이애미로 향하는 여성순회 공연단에 숨어드는 것. 감쪽같이 변장하고 오디션을 통과한 두 사람은 아름다운 여인들과 그야말로 꿈만 같은 생활을 시작하게 된다. 그 중에서도 극단의 리드싱어인 슈가에게 홀딱 반해버린 조는 서서히 그녀와 가까워진다. 조는 그녀가 좋아하는 남성상으로 자신을 위장하고 그녀에게 접근하는데...",
+            "popularity": 40.374,
+            "poster_path": "/kyqoOUfbLsH12POjGBFJ3rBPwsy.jpg",
+            "release_date": "1959-03-19",
+            "title": "뜨거운 것이 좋아",
+            "video": false,
+            "vote_average": 8.102,
+            "vote_count": 3335
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aFmoJntgDPR0Jd8XD1ZfFSmcqMg.jpg",
+            "genre_ids": [
+                18,
+                10752,
+                9648
+            ],
+            "id": 46738,
+            "original_language": "fr",
+            "original_title": "Incendies",
+            "overview": "쌍둥이 남매인 잔느와 시몽은 어느 날 갑자기 의식을 잃은 어머니 나왈의 유언을 전해 듣고 혼란에 빠진다. 유언의 내용은 죽은 줄로만 알았던 생부와 존재조차 몰랐던 형제를 찾아 자신이 남긴 편지를 전해달라는 것. 또한 편지를 전하기 전까지는 절대 장례를 치르지 말라는 당부도 함께 담겨있다.  시몬은 유언을 따르길 거부하지만 진실이 궁금한 잔느는 지도교수의 도움을 얻어 중동에 있는 어머니의 고향으로 떠난다. 베일에 싸여 있던 그녀의 과거와 마주한 잔느. 어둠 속에 묻혀 있던 어머니의 과거의 끝에는 충격적인 진실이 기다리고 있는데...",
+            "popularity": 39.681,
+            "poster_path": "/4j6AFF9Na494nJUMgMlR2tDKhTc.jpg",
+            "release_date": "2010-09-17",
+            "title": "그을린 사랑",
+            "video": false,
+            "vote_average": 8.101,
+            "vote_count": 2533
+        }
+    ],
+    "total_pages": 469,
+    "total_results": 9374
+}
